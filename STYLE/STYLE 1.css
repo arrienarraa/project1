@@ -1,0 +1,13 @@
+*{
+    MARGIN: 0;
+    PADDINNG:0;
+}
+
+.header(
+    min-height: 100vh;
+    width: 100%;
+    background-image: linearGradient(rgba(4,9,30,0.7)), rgba(4,9,30,0.7)), url(c:\Users\Rini Tresnasari\Documents\IF_ARRIN MADINA\projek 1\IMAGES\harvard home page.jpg);
+    background-position: ceter;
+    backgorund-size: cover;
+    position: relative;
+)
